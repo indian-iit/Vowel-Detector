@@ -10,6 +10,8 @@ step 3:Add the required input files.
 step 4:Click on the source files and open vowel.cpp file
 step 5:press function+F5 to run the programe.
 
+Note:-Input files are present in zip file.
+
 Verifying ai,ri,ci values:-
 step 1:- Comment/Remove all the code present in the vowel.cpp file.
 step 2:-Open Test_For_Ri_Ai_Ci.txt file.
