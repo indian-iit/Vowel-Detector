@@ -16,7 +16,7 @@ step 2:-Open Test_For_Ri_Ai_Ci.txt file.
 step 3:-Copy the entire code present in Test_For_Ri_Ai_Ci.txt file.
 step 4:-Paste the the copied code into vowel.cpp.
 step 5:-press function+F5 to run the programe.
-Step 6:-To verify the correcteness we can compare the values printed on screen and values present in dump files of ri,ai,ci.
+Step 6:-To verify the correcteness we can compare the values printed on screen and  values present in dump files of ri,ai,ci.
 
 
 
